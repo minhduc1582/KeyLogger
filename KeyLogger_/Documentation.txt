@@ -1,0 +1,18 @@
+﻿A hook is a point in the system message-handling mechanism where an application can install a subroutine
+to monitor the message traffic in the system and process certain types of messages before they reach
+the target window procedure.
+
+Hook-Function:
+LowLevelKeyboardProc	An application-defined or library-defined callback function used with the 
+						SetWindowsHookEx function. The system calls this function every time a new keyboard 
+						input event is about to be posted into a thread input queue.
+						
+CallNextHookEx			Passes the hook information to the next hook procedure in the current hook chain. 
+						A hook procedure can call this function either before or after processing the hook information.
+
+UnhookWindowsHookEx		Removes a hook procedure installed in a hook chain by the SetWindowsHookEx function.
+
+SetWindowsHookEx		
+
+GetModuleHandle			This function returns a module handle for the specified module if the file 
+						has been mapped into the address space of the calling process.

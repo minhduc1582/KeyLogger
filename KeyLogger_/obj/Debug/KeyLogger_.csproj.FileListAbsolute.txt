@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\bin\Debug\KeyLogger_.exe.config
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\bin\Debug\KeyLogger_.exe
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\bin\Debug\KeyLogger_.pdb
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\obj\Debug\KeyLogger_.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\obj\Debug\KeyLogger_.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\obj\Debug\KeyLogger_.exe
+C:\Users\HP\source\repos\KeyLogger\KeyLogger_\obj\Debug\KeyLogger_.pdb
